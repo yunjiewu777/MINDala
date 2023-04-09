@@ -45,10 +45,22 @@ public class Pen : MonoBehaviour
             currentDrawing = null;
             audioSource.Stop();
         }
-        else if (OVRInput.GetDown(OVRInput.Button.One))
+
+        if (OVRInput.Get(OVRInput.Button.One))
         {
             SwitchColor();
         }
+    }
+
+    private List<LineRenderer> lineRenderers = new List<LineRenderer>();
+
+    public void ClearStrokes()
+    {
+        foreach (LineRenderer lineRenderer in lineRenderers)
+        {
+            Destroy(lineRenderer.gameObject);
+        }
+        lineRenderers.Clear();
     }
 
     private void Draw()
@@ -66,7 +78,7 @@ public class Pen : MonoBehaviour
             currentDrawing.startWidth = currentDrawing.endWidth = penWidth;
             currentDrawing.positionCount = 1;
             currentDrawing.SetPosition(0, tip.position);
-
+            lineRenderers.Add(currentDrawing);
             audioSource.Play();
         }
         else

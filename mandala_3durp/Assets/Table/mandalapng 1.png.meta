@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: ee07d686463d54bdc9a616855ef30fda
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mandalapng 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4766.6665
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622951527306466f8e0729dec106002
+      internalID: -1847638238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_1
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 4766.6665
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cbae5e71de1487e81bb4e64ab75011
+      internalID: -1890766365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_2
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 4766.6665
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cdcadac82274856aa88b9b8bee6599
+      internalID: -1904578964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_3
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 4766.6665
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07341349fd6264ffd88521b25be3f3c6
+      internalID: 60300643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_4
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 4766.6665
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7cb44fc720d41fa8e715dcddff479d
+      internalID: 151170572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_5
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 4766.6665
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69f2501f29a34f5c80d50d6e776ea84
+      internalID: 1138327297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3813.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9a1ae807ac4d148313bbd8c351060
+      internalID: 448185911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_7
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3813.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841b0b6e92f845c4b5a37f6a3fdf38a
+      internalID: -1841448793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_8
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 3813.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08b7fe8e70c54802a52783606f482ff
+      internalID: 342732019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_9
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3813.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eacabff3a92044d588c608ef6a3a9d2
+      internalID: 440404501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_10
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 3813.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026fe1b1299146c9bb3ff9d1e695e00
+      internalID: 801416248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_11
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 3813.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b04f0233a50b45009bbdcf5495c635e
+      internalID: 980854182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2860.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e4a2283ad34163a7670a2dc5336c1
+      internalID: 167572123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_13
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2860.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b122fd5d65e4abeb9c17903353c328
+      internalID: 545871573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_14
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2860.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de892ba936f4d799fe80c0df840de0
+      internalID: -2134472733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_15
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2860.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc708e9ab1946456186e3691eed175c6
+      internalID: -242318020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_16
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 2860.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39bd52cda67436f89ac83a45d02078
+      internalID: 641614296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_17
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 2860.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3357bb1a7e41fdbac6a3916b0c0ff
+      internalID: -1481161193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1907.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358efbf9e8b2c483dbc4c4e7f6964506
+      internalID: -589747049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_19
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1907.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026fcadbc2ed3449bbb23a98ef572260
+      internalID: -99684859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_20
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1907.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7981c2936c1e4fba8e416053da71157
+      internalID: -1594464693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_21
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1907.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b4a5cb47a8b42718389115ea1271b2
+      internalID: 346958076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_22
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 1907.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80f404fbcaf4480ebbf6490172d3ad0
+      internalID: 987524426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_23
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 1907.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aea8abd3ae84717bdc727ffc6e257f
+      internalID: -1214393073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8729bcd313346048b85f01162e7841
+      internalID: 1966132672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_25
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 954.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e2a27a8e9242a3bb461a119ac2747
+      internalID: -307233581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_26
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 954.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2999db33fbfb443bb297ef064b20f16
+      internalID: 1643934377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_27
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 954.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a1e28c7d184148984f378e339c6a7
+      internalID: 107250888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_28
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 954.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93c3c3be16094143826d9ba3c057255
+      internalID: -340761072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_29
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 954.6667
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd50428f8c64e40a5aedaef1cd8a81
+      internalID: -996071068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.666687
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367868786b2d4a808e92ca10a532a6d
+      internalID: -813952240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_31
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1.666687
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444d7af09e3f436a8170905077ce40e
+      internalID: 589108913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_32
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1.666687
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9121405e45d4459b9604d6c86e92c4
+      internalID: -301397890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_33
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1.666687
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1d5727fd1347ca9fe2d12736f0d47
+      internalID: 1640835732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_34
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 1.666687
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf09612ade1043c3932d8f8f4faac23
+      internalID: -619082666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mandalapng 1_35
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 1.666687
+        width: 953.3333
+        height: 953.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d18f3d9b79f43d0975d5a2efacdbd0
+      internalID: 1044656183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a733776bed6d54e5c9e4933792c0e035
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mandalapng 1_23: -1214393073
+      mandalapng 1_13: 545871573
+      mandalapng 1_2: -1904578964
+      mandalapng 1_11: 980854182
+      mandalapng 1_20: -1594464693
+      mandalapng 1_1: -1890766365
+      mandalapng 1_10: 801416248
+      mandalapng 1_26: 1643934377
+      mandalapng 1_33: 1640835732
+      mandalapng 1_30: -813952240
+      mandalapng 1_35: 1044656183
+      mandalapng 1_14: -2134472733
+      mandalapng 1_19: -99684859
+      mandalapng 1_27: 107250888
+      mandalapng 1_25: -307233581
+      mandalapng 1_7: -1841448793
+      mandalapng 1_17: -1481161193
+      mandalapng 1_18: -589747049
+      mandalapng 1_22: 987524426
+      mandalapng 1_29: -996071068
+      mandalapng 1_5: 1138327297
+      mandalapng 1_32: -301397890
+      mandalapng 1_15: -242318020
+      mandalapng 1_16: 641614296
+      mandalapng 1_31: 589108913
+      mandalapng 1_3: 60300643
+      mandalapng 1_6: 448185911
+      mandalapng 1_8: 342732019
+      mandalapng 1_24: 1966132672
+      mandalapng 1_21: 346958076
+      mandalapng 1_9: 440404501
+      mandalapng 1_34: -619082666
+      mandalapng 1_12: 167572123
+      mandalapng 1_4: 151170572
+      mandalapng 1_0: -1847638238
+      mandalapng 1_28: -340761072
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
