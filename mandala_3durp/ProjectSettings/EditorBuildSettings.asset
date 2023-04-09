@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Main VR Scene.unity
+    guid: f692f696ce85c4819a4ce513fdc0f59f
+  - enabled: 1
+    path: Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D.unity
+    guid: f4021bc829b444148a3959ec85eeeceb
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 38a25f32697f2428f80c1f17dfa6ab7a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3d3c3716fb7364fbfbf4e63bf3bfa34d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 83659310f1c074375a22a828bc17a45d,
+      type: 2}

@@ -2,13 +2,22 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+
+/mandala_3durp/Library/*
+/mandala_3durp/[Tt]emp/*
+/mandala_3durp/[Oo]bj/*
+/mandala_3durp/[Bb]uild/*
+/mandala_3durp/[Bb]uilds/*
+/mandala_3durp/[Ll]ogs/*
+/mandala_3durp/[Mm]emoryCaptures/*
+
+/mandala_3durp/[Ll]ibrary/
+/mandala_3durp/[Tt]emp/
+/mandala_3durp/[Oo]bj/
+/mandala_3durp/[Bb]uild/
+/mandala_3durp/[Bb]uilds/
+/mandala_3durp/[Ll]ogs/
+/mandala_3durp/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
