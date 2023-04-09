@@ -494,8 +494,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tip: {fileID: 1429149455}
-  drawingMaterial: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
-  tipMaterial: {fileID: 2100000, guid: f36e915635bf94623be0e2a5a4126cb9, type: 2}
+  drawingMaterial: {fileID: 2100000, guid: b2a2897ffcbc44c03bd55903965bd716, type: 2}
+  tipMaterial: {fileID: 2100000, guid: b4fdc20717507cc48b28ef9db82f0d5f, type: 2}
   penWidth: 0.01
   penColors:
   - {r: 0.25490198, g: 1, b: 0.25490198, a: 0}
@@ -5478,6 +5478,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5219564814051043192, guid: 9a55c9ee4295d486caa3da98986f033b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5219564814051043192, guid: 9a55c9ee4295d486caa3da98986f033b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5219564814051043193, guid: 9a55c9ee4295d486caa3da98986f033b,
+        type: 3}
+      propertyPath: m_Name
+      value: Tip
+      objectReference: {fileID: 0}
     - target: {fileID: 5219564814647879336, guid: 9a55c9ee4295d486caa3da98986f033b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]

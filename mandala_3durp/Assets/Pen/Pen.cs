@@ -56,12 +56,17 @@ public class Pen : MonoBehaviour
         if (currentDrawing == null)
         {
             index = 0;
-            currentDrawing = new GameObject().AddComponent<LineRenderer>();
+            GameObject lineObject = new GameObject("Line");
+            lineObject.transform.SetParent(transform.parent); // Set the parent of the new line to the same parent as the pen
+            lineObject.layer = gameObject.layer; // Set the layer of the new line to the same layer as the pen
+
+            currentDrawing = lineObject.AddComponent<LineRenderer>();
             currentDrawing.material = drawingMaterial;
             currentDrawing.startColor = currentDrawing.endColor = penColors[currentColorIndex];
             currentDrawing.startWidth = currentDrawing.endWidth = penWidth;
             currentDrawing.positionCount = 1;
             currentDrawing.SetPosition(0, tip.position);
+
             audioSource.Play();
         }
         else
@@ -75,6 +80,31 @@ public class Pen : MonoBehaviour
             }
         }
     }
+    // private void Draw()
+    // {
+    //     if (currentDrawing == null)
+    //     {
+    //         index = 0;
+    //         currentDrawing = new GameObject().AddComponent<LineRenderer>();
+    //         currentDrawing.material = drawingMaterial;
+    //         currentDrawing.startColor = currentDrawing.endColor = penColors[currentColorIndex];
+    //         currentDrawing.startWidth = currentDrawing.endWidth = penWidth;
+    //         currentDrawing.positionCount = 1;
+    //         currentDrawing.SetPosition(0, tip.position);
+
+    //         audioSource.Play();
+    //     }
+    //     else
+    //     {
+    //         var currentPos = currentDrawing.GetPosition(index);
+    //         if (Vector3.Distance(currentPos, tip.position) > 0.01f)
+    //         {
+    //             index++;
+    //             currentDrawing.positionCount = index + 1;
+    //             currentDrawing.SetPosition(index, tip.position);
+    //         }
+    //     }
+    // }
 
     private void SwitchColor()
     {
